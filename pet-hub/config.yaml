@@ -1,0 +1,5 @@
+title: PawSolved — Pet Problem-Solver Finds
+baseURL: "http://localhost:1313/"
+languageCode: en-us
+params:
+  description: "A local prototype affiliate hub for practical pet gadgets. Placeholder links only."

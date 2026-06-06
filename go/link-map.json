@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "label-printer",
+    "product": "Máy in nhãn 4x6",
+    "placeholder_url": "https://example.com/affiliate-placeholder/label-printer?utm_source=github_pages&utm_medium=organic&utm_campaign=week1_accel&utm_term=placeholder&utm_content=label-printer",
+    "status": "PLACEHOLDER_NOT_REAL_AFFILIATE",
+    "landing_cta": "/go/label-printer/"
+  },
+  {
+    "slug": "eco-mailers",
+    "product": "Mailer tái chế/compostable",
+    "placeholder_url": "https://example.com/affiliate-placeholder/eco-mailers?utm_source=github_pages&utm_medium=organic&utm_campaign=week1_accel&utm_term=placeholder&utm_content=eco-mailers",
+    "status": "PLACEHOLDER_NOT_REAL_AFFILIATE",
+    "landing_cta": "/go/eco-mailers/"
+  },
+  {
+    "slug": "laptop-stand",
+    "product": "Laptop stand gập gọn",
+    "placeholder_url": "https://example.com/affiliate-placeholder/laptop-stand?utm_source=github_pages&utm_medium=organic&utm_campaign=week1_accel&utm_term=placeholder&utm_content=laptop-stand",
+    "status": "PLACEHOLDER_NOT_REAL_AFFILIATE",
+    "landing_cta": "/go/laptop-stand/"
+  },
+  {
+    "slug": "cable-kit",
+    "product": "Bộ gom dây dưới bàn",
+    "placeholder_url": "https://example.com/affiliate-placeholder/cable-kit?utm_source=github_pages&utm_medium=organic&utm_campaign=week1_accel&utm_term=placeholder&utm_content=cable-kit",
+    "status": "PLACEHOLDER_NOT_REAL_AFFILIATE",
+    "landing_cta": "/go/cable-kit/"
+  },
+  {
+    "slug": "pet-hair-roller",
+    "product": "Cây lăn lông thú tái sử dụng",
+    "placeholder_url": "https://example.com/affiliate-placeholder/pet-hair-roller?utm_source=github_pages&utm_medium=organic&utm_campaign=week1_accel&utm_term=placeholder&utm_content=pet-hair-roller",
+    "status": "PLACEHOLDER_NOT_REAL_AFFILIATE",
+    "landing_cta": "/go/pet-hair-roller/"
+  }
+]
